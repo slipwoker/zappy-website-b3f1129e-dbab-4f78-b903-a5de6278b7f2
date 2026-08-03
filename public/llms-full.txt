@@ -2,13 +2,13 @@
 
 A professional fire safety equipment service business specializing in inspections, replacements, and installations of fire suppression equipment in compliance with all regulations. The business targets a diverse clientele including kindergartens, dental clinics, and various commercial businesses, positioning itself as a reliable and certified safety partner for a wide range of establishments.
 
-Source: https://example.com
+Source: https://profire.zappy5.app
 
 ---
 
 ## הגנו על מה שחשוב — ציוד כיבוי אש מקצועי — פרו פייר
 
-URL: https://example.com
+URL: https://profire.zappy5.app
 Description: פרו פייר – השותף המהימן שלכם לבטיחות אש. מתמחים בבדיקות, התקנות ושירות לציוד כיבוי מתקדם לגנים, מרפאות ועסקים. שמרו על שקט נפשי ועמידה בתקנים. חייגו עכשיו!
 
 הגנו על מה שחשוב — ציוד כיבוי אש מקצועי — פרו פייר
@@ -797,7 +797,7 @@ matafemesh148@gmail..com
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://profire.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1064,7 +1064,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://profire.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1340,7 +1340,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://profire.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1635,7 +1635,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - פרו פייר
 
-URL: https://example.com/thank-you
+URL: https://profire.zappy5.app/thank-you
 Description: פרו פייר - תודה - פרו פייר
 
 תודה - פרו פייר
