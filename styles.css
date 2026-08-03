@@ -5504,6 +5504,22 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+#services .services-cta-wrapper, .index-audiences-section__cta-wrapper, #testimonials .testimonials-cta-wrapper, .index-stats-section__cta-wrapper {
+  text-align: center;
+  margin-top: 32px;
+  margin-bottom: 8px;
+}
+
+#services .services-cta-btn, .index-audiences-section__cta-btn, #testimonials .testimonials-cta-btn, .index-stats-section__cta-btn {
+  display: inline-block;
+  padding: 14px 36px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
