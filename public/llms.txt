@@ -35,6 +35,7 @@ Information about WCAG compliance and accessibility features.
 - Email: matafemesh148@gmail..com
 - Phone: 0553028141
 - Phone (tel): tel:0553028141
+- Address: התחיה 1, פתח תקווה 
 
 ### Contact form
 - URL: https://example.com
