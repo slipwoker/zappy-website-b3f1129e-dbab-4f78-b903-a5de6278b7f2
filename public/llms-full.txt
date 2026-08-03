@@ -2,13 +2,13 @@
 
 A professional fire safety equipment service business specializing in inspections, replacements, and installations of fire suppression equipment in compliance with all regulations. The business targets a diverse clientele including kindergartens, dental clinics, and various commercial businesses, positioning itself as a reliable and certified safety partner for a wide range of establishments.
 
-Source: https://-b3f1129e.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הגנו על מה שחשוב — ציוד כיבוי אש מקצועי — פרו פייר
 
-URL: https://-b3f1129e.zappy5.app
+URL: https://example.com
 Description: פרו פייר – השותף המהימן שלכם לבטיחות אש. מתמחים בבדיקות, התקנות ושירות לציוד כיבוי מתקדם לגנים, מרפאות ועסקים. שמרו על שקט נפשי ועמידה בתקנים. חייגו עכשיו!
 
 הגנו על מה שחשוב — ציוד כיבוי אש מקצועי — פרו פייר
@@ -799,7 +799,7 @@ Description: פרו פייר – השותף המהימן שלכם לבטיחות
 
 ## מדיניות פרטיות
 
-URL: https://-b3f1129e.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1069,7 +1069,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-b3f1129e.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1348,7 +1348,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-b3f1129e.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1646,7 +1646,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - פרו פייר
 
-URL: https://-b3f1129e.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: פרו פייר - תודה - פרו פייר
 
 תודה - פרו פייר
