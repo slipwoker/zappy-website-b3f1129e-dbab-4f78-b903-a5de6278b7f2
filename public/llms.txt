@@ -1,0 +1,75 @@
+# פרו פייר — Generative Engine Optimization Map
+
+> A professional fire safety equipment service business specializing in inspections, replacements, and installations of fire suppression equipment in compliance with all regulations. The business targets a diverse clientele including kindergartens, dental clinics, and various commercial businesses, positioning itself as a reliable and certified safety partner for a wide range of establishments.
+
+---
+
+## Pages
+
+### בית
+https://-b3f1129e.zappy5.app
+פרו פייר – השותף המהימן שלכם לבטיחות אש. מתמחים בבדיקות, התקנות ושירות לציוד כיבוי מתקדם לגנים, מרפאות ועסקים. שמרו על שקט נפשי ועמידה בתקנים. חייגו עכשיו!
+
+### תודה - פרו פייר
+https://-b3f1129e.zappy5.app/thank-you
+פרו פייר - תודה - פרו פייר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b3f1129e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b3f1129e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b3f1129e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-b3f1129e.zappy5.app
+- Endpoint: https://-b3f1129e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פרו פייר
+A professional fire safety equipment service business specializing in inspections, replacements, and installations of fire suppression equipment in compliance with all regulations. The business targets a diverse clientele including kindergartens, dental clinics, and various commercial businesses, positioning itself as a reliable and certified safety partner for a wide range of establishments.
+
+## Target Audience
+- גני ילדים, רופאי שיניים, ועסקים מגוונים
+- מנהלי בטיחות בגני ילדים
+- בעלי מרפאות שיניים
+- מנהלי מתקנים בחברות
+- בעלי חנויות קמעונאיות
+- מנהלי מתקנים בבתי ספר
+- ועדי בתים
+- יועצי בטיחות
+
+## Industry
+Fire Safety & Equipment Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b3f1129e.zappy5.app/sitemap.xml
+- Robots: https://-b3f1129e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b3f1129e.zappy5.app/llms-full.txt
